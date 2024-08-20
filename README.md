@@ -12,3 +12,4 @@ Context Retrieval is achieved by passing relevant documents - <b>Web URLs</b> - 
 ## Test Run
 The RAG application test run was provided with a context document URL from USA Today dated Aug 12, 2024 which suggests the discovery of Water on Planet Mars ([link](https://www.usatoday.com/story/news/nation/2024/08/12/liquid-water-discovered-on-mars-study/74765921007/))
 
+![Test RAG Output](https://github.com/RutvikB/Retrieval-Augmented-Generation-with-Mistral-AI-Ollama/blob/main/web-rag.gif)
