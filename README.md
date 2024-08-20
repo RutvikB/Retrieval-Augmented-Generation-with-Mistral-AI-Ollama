@@ -1,6 +1,6 @@
 # Retrieval Augmented Generation (RAG) using Mistral-7B LLM on Ollama
 
-Implementation of a RAG Application by using MistralAI's latest <b>Mistral-7B v0.3</b> Pre-trained Large Language Model (with 7.25 Billion Parameters) hosted by [Ollama](https://ollama.com/library/mistral).
+Implementation of a RAG Application by using MistralAI's <b>Mistral-7B v0.3</b> Pre-trained Large Language Model (with 7.25 Billion Parameters) released on May 22, 2024 hosted on [Ollama](https://ollama.com/library/mistral).
 
 Context Retrieval is achieved by passing relevant documents - <b>Web URLs</b> - in the appropriate context file.
 
